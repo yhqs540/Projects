@@ -1,5 +1,4 @@
 number = 8
-
 def fibonacci(number):
   if number < 2:
     raise ValueError("Number has to larger than 2.")
